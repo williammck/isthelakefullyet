@@ -2,8 +2,6 @@
 
 Based on Dave Rupert's Codepen: http://codepen.io/davatron5000/pen/YXqZgB, which pulls in data from Lake Travis water level.
 
-It's grown a bit since then thanks to Austin designers and developers from [@ATXBuilt](http://twitter.com/ATXBuilt). 
+Then, it grew a bit thanks to Austin designers and developers from [@ATXBuilt](http://twitter.com/ATXBuilt).
 
-# Have a question?
-
-Are you journalist? Reporter? Blogger? Want to talk to someone about the site? Please follow-up with [@BrilliantCrank](http://twitter.com/BrilliantCrank) on Twitter. 
+Since then, it's been forked and maintained by [William McKinnerney](https://williammck.net).
