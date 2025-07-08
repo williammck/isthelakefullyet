@@ -1,5 +1,13 @@
 {
-  "dependencies": {
-    "node-fetch": "^2.6.1"
-  }
+	"name": "isthelakefullyet",
+	"version": "0.0.0",
+	"private": true,
+	"scripts": {
+		"deploy": "wrangler deploy",
+		"dev": "wrangler dev",
+		"start": "wrangler dev"
+	},
+	"devDependencies": {
+		"wrangler": "^4.23.0"
+	}
 }

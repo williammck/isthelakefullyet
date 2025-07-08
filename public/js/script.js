@@ -16,7 +16,7 @@ function dataFromColumn($row, column) {
 }
 
 function getLevels(callback) {
-  var dataURI = '/.netlify/functions/get-lake-data';
+  var dataURI = '/get-lake-data';
   $.getJSON(dataURI, function(data) {
       waterLevels.currentDepth = data.currentDepth;
       waterLevels.fullVolume = data.fullVolume;
